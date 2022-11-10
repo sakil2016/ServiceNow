@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_937373_etp_apps_lastname" label="lastname" language="en" table="incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_937373_etp_apps_lastname</element>
+            <help/>
+            <hint/>
+            <label>lastname</label>
+            <language>en</language>
+            <name>incident</name>
+            <plural>lastnames</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-10 08:14:54</sys_created_on>
+            <sys_name>lastname</sys_name>
+            <sys_package display_value="ETP_APPS" source="x_937373_etp_apps">d4bb55c62f031110ca832ea62799b69f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ETP_APPS">d4bb55c62f031110ca832ea62799b69f</sys_scope>
+            <sys_update_name>sys_documentation_incident_x_937373_etp_apps_lastname_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
