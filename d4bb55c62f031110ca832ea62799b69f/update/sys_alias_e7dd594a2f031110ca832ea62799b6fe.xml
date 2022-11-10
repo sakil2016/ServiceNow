@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_937373_etp_apps.ETP_Credentials_API_KEY</id>
+        <multiple_connections>false</multiple_connections>
+        <name>ETP_Credentials_API_KEY</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 07:01:40</sys_created_on>
+        <sys_id>e7dd594a2f031110ca832ea62799b6fe</sys_id>
+        <sys_name>x_937373_etp_apps.ETP_Credentials_API_KEY</sys_name>
+        <sys_package display_value="ETP_APPS" source="x_937373_etp_apps">d4bb55c62f031110ca832ea62799b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ETP_APPS">d4bb55c62f031110ca832ea62799b69f</sys_scope>
+        <sys_update_name>sys_alias_e7dd594a2f031110ca832ea62799b6fe</sys_update_name>
+        <type>credential</type>
+    </sys_alias>
+</record_update>

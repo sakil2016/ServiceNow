@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.query_hints=true,email_client=true,hasWorkflow=true,live_feed=true,query_hints=true" audit="true" db_object_id="7ca8ccf121920110a866589604c20d16" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="address" max_length="100" name="x_937373_etp_apps_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="email" max_length="40" name="x_937373_etp_apps_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="firstname" max_length="40" name="x_937373_etp_apps_firstname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="lastname" max_length="40" name="x_937373_etp_apps_lastname" type="string"/>
+        <element label="SQLID" max_length="40" name="x_937373_etp_apps_sqlid" type="integer"/>
+    </element>
+</database>
